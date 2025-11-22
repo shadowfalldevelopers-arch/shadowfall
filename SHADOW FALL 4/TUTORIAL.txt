@@ -1,0 +1,30 @@
+1 -> OPEN THE FOLDER "SHADOW FALL 4"
+2 -> OPEN THE SHADOW FALL HTML FILE
+3 -> OPEN THE FILE USING A SUITABLE APPLICATION [ Google Chrome ]
+4 -> 
+     CONTROLS: [ Avoid Capslock ]
+      *FOR FIRSTPLAYER:
+         A -> REVERSE
+         D -> FORWARD
+         W -> JUMP
+         SPACE BAR -> ATTACK
+      *FOR SECOND PLAYER:
+         UP ARROW    -> JUMP 
+         RIGHT ARROW -> FORWARD
+         LEFT ARROW  -> BACKWARD
+         DOWN ARROW  -> ATTACK
+
+     HEALTH: 1OOHP
+     ATTACK: -10HP 
+ 
+5 -> CHARACTERS ATTRIBUTES:
+      *THE LAST EMBER = SPEED ++   ,  ATTACK    , JUMP +  , RANGE 
+      *IGNARIUS       = SPEED -    ,  ATTACK    , JUMP -  , RANGE ++
+
+6 -> REPORT BUGS IF FOUND
+7 -> CONTACT : shadowfalldevelopers@gmail.com
+
+
+
+With Regards,
+  Shadow Fall Developers
